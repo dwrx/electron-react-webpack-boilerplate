@@ -8,6 +8,7 @@ builds/
 dist/
 node_modules/
 *.compiled.*
+.eslintcache
 
 # Folder config file #
 ######################
